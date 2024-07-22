@@ -13,6 +13,7 @@ Everything is ready for development, you just need to run the containers and sta
 ## Prerequisites
 
 Install [Docker Desktop](https://docs.docker.com/get-docker) for Mac, Windows, or Linux. Docker Desktop includes Docker Compose as part of the installation.
+
 Install [DDEV](https://ddev.com/get-started/)
 
 ## Features
